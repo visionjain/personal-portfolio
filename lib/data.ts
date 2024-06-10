@@ -59,12 +59,12 @@ export const experiencesData = [
     date: "Aug 2023 - present",
   },
   {
-    title: "Intern",
+    title: "Data Security Intern",
     location: "Thales Group, Noida",
     description:
       "Will get to learn about data security products and include in study of related concepts and technology stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "Upcoming (June 2024 - July 2024)",
+    date: "(June 2024 - July 2024)",
   },
 ] as const;
 
