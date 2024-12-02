@@ -35,20 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Website Developer Intern",
-    location: "Microsoft, FRT Program",
+    title: "Data Security Intern",
+    location: "Thales Group, Noida",
     description:
-      "Microsoft future ready talent remote internship. Including major project on agriculture and education sector.",
-    icon: React.createElement(LuGraduationCap),
-    date: "Oct 2022 - Nov 2022",
-  },
-  {
-    title: "Research Intern",
-    location: "Deloitte, Remote",
-    description:
-      "Conducted in-depth technical analyses using advanced tools and methodologiesto evaluate emerging technologies, industry trends, or specific client requirements",
+      "Will get to learn about data security products and include in study of related concepts and technology stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "feb 2023 - apr 2023",
+    date: "(June 2024 - July 2024)",
   },
   {
     title: "Founder",
@@ -59,12 +51,20 @@ export const experiencesData = [
     date: "Aug 2023 - present",
   },
   {
-    title: "Data Security Intern",
-    location: "Thales Group, Noida",
+    title: "Research Intern",
+    location: "Deloitte, Remote",
     description:
-      "Will get to learn about data security products and include in study of related concepts and technology stack.",
+      "Conducted in-depth technical analyses using advanced tools and methodologiesto evaluate emerging technologies, industry trends, or specific client requirements",
     icon: React.createElement(CgWorkAlt),
-    date: "(June 2024 - July 2024)",
+    date: "feb 2023 - apr 2023",
+  },
+  {
+    title: "Website Developer Intern",
+    location: "Microsoft, FRT Program",
+    description:
+      "Microsoft future ready talent remote internship. Including major project on agriculture and education sector.",
+    icon: React.createElement(LuGraduationCap),
+    date: "Oct 2022 - Nov 2022",
   },
 ] as const;
 
